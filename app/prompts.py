@@ -40,6 +40,7 @@ score the sales representative's performance from 0 to 100.
 
 Scoring criteria:
 - Listened actively (0-20 points)
+- Listened actively (0-20 points)
 - Addressed objections clearly (0-20 points)  
 - Communicated value proposition (0-20 points)
 - Maintained professional tone (0-20 points)
