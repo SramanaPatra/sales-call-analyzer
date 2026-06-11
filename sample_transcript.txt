@@ -1,0 +1,11 @@
+Hi Sarah, I've reviewed your software proposal carefully.
+Honestly, the price point is quite high compared to what
+HubSpot and Salesforce are offering us right now. Our budget
+is tight this quarter and I'm not sure we can justify the cost.
+
+Also, I'm worried our sales team won't adopt a new tool —
+they really struggled with the last system change we made.
+We also looked at Zoho which seems much cheaper.
+
+Sarah didn't really address our budget concern directly and
+didn't offer any kind of trial or discount to help us move forward.
